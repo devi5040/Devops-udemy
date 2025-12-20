@@ -94,12 +94,12 @@ _Problem in this_
 
 ```mermaid
 flowchart LR
-    C((Code))-->F((Fetch))
-    F --> B((Build))
+    C((Code))-->Fe((Fetch))
+    Fe --> B((Build))
     B --> T((Test))
     T --> N((Notify))
-    N --> F((Feedback))
-    F --> C
+    N --> Fb((Feedback))
+    Fb --> C
 ```
 
 - This automated process is called Continuous Integration/CI.
