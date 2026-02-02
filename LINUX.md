@@ -42,3 +42,15 @@
 - Shared Libraries: /lib, /usr/lib, /usr/local/lib
 
 ---
+
+## Commands
+
+- $ whoami -> it is used to get the current user
+- $ pwd -> it is used to get the present working directory
+- $ ls -> it will list all the files and folders in current working directory
+- $ cd filename/foldername -> it is used to change the current working directory
+- $ cat /filepath -> it is used to read a file
+- $ sudo -i -> switch to the root user
+- $ clear -> it is used to clear the screen
+- $ cd -> cd without any options will come back to user's home directory
+- $ uptime -> it is used to get the system uptime (for how long the system has been running)
